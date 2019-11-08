@@ -1,0 +1,39 @@
+ham	Hello World!
+spam	many
+spam	   .....  lines ....
+ham	  N.E.X.T     ah ah ah ah    
+ham	 2
+spam	   4
+ham	     6
+ham	      7
+ham	       8
+ham	         10
+ham	           12
+ham	               16
+spam	                17
+ham	                 18
+spam	                   20
+spam	                     22
+ham	                        25
+ham	                         26
+spam	                           28
+spam	                              31
+spam	                                   36
+ham	                                    37
+spam	                                      39
+ham	                                       40
+ham	                                             46
+ham	                                                49
+ham	                                                 50
+spam	                                                   52
+ham	                                                     54
+ham	                                                      55
+ham	                                                        57
+spam	                                                         58
+spam	                                                          59
+ham	                                                             62
+spam	                                                              63
+ham	                                                               64
+spam	                                                                  67
+ham	                                                                   68
+ham	                                                                     70
